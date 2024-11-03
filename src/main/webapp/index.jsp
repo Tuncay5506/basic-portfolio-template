@@ -8,7 +8,7 @@
 
   After uploading github...
 
-  Feyza namnamı baya baya seviyo onu ısırıyo yalıyo.
+  Feyza loves her cat sooooo much.
 
 </body>
 </html>
