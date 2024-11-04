@@ -1,0 +1,32 @@
+pipeline {
+    agent any
+    
+    tools{
+        maven 'maven398'
+    }
+
+    stages {
+        stage('Git Clone') {
+            steps {
+                git branch: 'main', url: 'https://github.com/Tuncay5506/basic-portfolio-template.git'
+            }
+        }
+        stage('mvn build') {
+            steps {
+                sh 'mvn clean package'
+            }
+        }
+        stage('Docker Image') {
+            steps {
+                sh 'docker build -t tuncaydocker .'
+            }
+        }
+        stage('Deployment') {
+            steps {
+                sh 'docker stop tuncaycontainer'
+                sh 'docker rm tuncaycontainer'
+                sh 'docker run -d -p 9090:8080 --name tuncaycontainer tuncaydocker'
+            }
+        }
+    }
+}
