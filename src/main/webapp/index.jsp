@@ -17,9 +17,9 @@
   <body>
     <header class="header">
       <div class="header__socials">
-        <a href="mailto:tuncay.kaya@powercoders.org"><i class="ri-mail-fill"></i></a>
-        <a href="https://github.com/Tuncay5506/"><i class="ri-github-fill"></i></a>
-        <a href="https://www.linkedin.com/in/tuncay-kaya/"><i class="ri-linkedin-fill"></i></a>
+        <a href="mailto:tuncay.kaya@powercoders.org" target="_blank"><i class="ri-mail-fill"></i></a>
+        <a href="https://github.com/Tuncay5506/" target="_blank"><i class="ri-github-fill"></i></a>
+        <a href="https://www.linkedin.com/in/tuncay-kaya/" target="_blank"><i class="ri-linkedin-fill"></i></a>
       </div>
       <nav>
         <div class="nav__bar">
@@ -86,9 +86,9 @@
           <a href="assets/CV_TuncayKAYA.pdf" download class="download__btn">
             Download CV
           </a>
-          <a href="mailto:tuncay.kaya@powercoders.org"><i class="ri-mail-fill"></i></a>
-          <a href="https://github.com/Tuncay5506/"><i class="ri-github-fill"></i></a>
-          <a href="https://www.linkedin.com/in/tuncay-kaya/"><i class="ri-linkedin-fill"></i></a>
+          <a href="mailto:tuncay.kaya@powercoders.org" target="_blank"><i class="ri-mail-fill"></i></a>
+          <a href="https://github.com/Tuncay5506/" target="_blank"><i class="ri-github-fill"></i></a>
+          <a href="https://www.linkedin.com/in/tuncay-kaya/" target="_blank"><i class="ri-linkedin-fill"></i></a>
         </div>
       </div>
     </section>
@@ -388,9 +388,9 @@
             configuration and policy contributes to a seamless, reliable experience for end-users and teams alike.
           </p>
           <div class="footer__socials">
-            <a href="mailto:tuncay.kaya@powercoders.org"><i class="ri-mail-fill"></i></a>
-            <a href="https://github.com/Tuncay5506/"><i class="ri-github-fill"></i></a>
-            <a href="https://www.linkedin.com/in/tuncay-kaya/"><i class="ri-linkedin-fill"></i></a>
+            <a href="mailto:tuncay.kaya@powercoders.org" target="_blank"><i class="ri-mail-fill"></i></a>
+            <a href="https://github.com/Tuncay5506/" target="_blank"><i class="ri-github-fill"></i></a>
+            <a href="https://www.linkedin.com/in/tuncay-kaya/" target="_blank"><i class="ri-linkedin-fill"></i></a>
           </div>
         </div>
         <div class="footer__col">
