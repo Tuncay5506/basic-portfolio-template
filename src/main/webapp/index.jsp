@@ -12,7 +12,7 @@
       href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css"
     />
     <link rel="stylesheet" href="styles.css" />
-    <title> Amazing Portfolio || Web Addicted </title>
+    <title> Amazing Portfolio || Tuncay KAYA </title>
   </head>
   <body>
     <header class="header">
@@ -25,7 +25,7 @@
         <div class="nav__bar">
           <div class="nav__header">
             <div class="nav__logo">
-              <a href="#">Web Dev<span></span></a>
+              <a href="#">Sys Adm<span></span></a>
             </div>
             <div class="nav__menu__btn" id="menu-btn">
               <span><i class="ri-menu-3-line"></i></span>
@@ -44,16 +44,19 @@
       </nav>
       <div class="section__container header__container" id="home">
         <div class="header__image">
-          <img src="assets/header.png" alt="header" />
+          <img src="assets/big-me.png" alt="header" />
         </div>
         <div class="header__content">
           <h4>Crafting Digital Excellence</h4>
-          <h1>Hi, I Am Web Dev. This Is My Favotite Work!</h1>
+          <h1>Hi, I Am Sys Adm. This Is My Favotite Work!</h1>
           <p>
-            I'm a dedicated web developer with a creative flair and a penchant
-            for turning lines of code into captivating online experiences. My
-            journey in the digital realm began years ago, and I've since honed
-            my skills in front-end and back-end development.
+            I'm a passionate system administrator with a knack for ensuring 
+            robust, secure, and seamless infrastructure. 
+            My journey in the tech world began years ago, and over time, 
+            I've sharpened my skills in managing servers, optimizing networks, 
+            and maintaining high-performance systems. 
+            Whether it’s troubleshooting complex issues or implementing innovative solutions, 
+            I take pride in keeping systems running smoothly and efficiently.
           </p>
           <button class="btn">Hire Me Now</button>
         </div>
@@ -62,23 +65,25 @@
 
     <section class="section__container about__container" id="about">
       <div class="about__image">
-        <img src="assets/about.jpg" alt="about" />
+        <img src="assets/about-me.png" alt="about" />
       </div>
       <div class="about__content">
         <h2 class="section__header">Hi There I Web Dev</h2>
         <p>
-          A passionate web developer with a creative flair and a knack for
-          turning visions into reality. My journey in web development began with
-          a fascination for coding and design, and it has evolved into a career
-          where I blend aesthetics with functionality.
+            I'm a passionate system administrator with a knack for ensuring 
+            robust, secure, and seamless infrastructure. 
+            My journey in the tech world began years ago, and over time, 
+            I've sharpened my skills in managing servers, optimizing networks, 
+            and maintaining high-performance systems. 
+            Whether it’s troubleshooting complex issues or implementing innovative solutions, 
+            I take pride in keeping systems running smoothly and efficiently.
         </p>
         <h4>
-          With a focus on user experience and a commitment to staying updated
-          with the latest industry trends, I'm dedicated to creating web
-          solutions that not only meet but exceed expectations.
+            With a focus on performance and a commitment to staying updated with the latest industry trends, 
+            I'm dedicated to building systems that not only meet but exceed reliability and efficiency standards.
         </h4>
         <div class="about__btns">
-          <a href="assets/Andarson_CV.pdf" download class="download__btn">
+          <a href="assets/CV_TuncayKAYA.pdf" download class="download__btn">
             Download CV
           </a>
           <a href="#"><i class="ri-mail-fill"></i></a>
@@ -92,30 +97,31 @@
       <div class="banner__card">
         <span><i class="ri-pen-nib-line"></i></span>
         <div>
-          <h4>Design</h4>
+          <h4>Virtualization</h4>
           <p>
-            Our designers and content creators are committed to delivering
-            engaging digital content.
+            Our virtualization experts are committed to delivering 
+            scalable and efficient virtual environments that optimize 
+            resource usage and enhance operational flexibility.
           </p>
         </div>
       </div>
       <div class="banner__card">
         <span><i class="ri-layout-masonry-line"></i></span>
         <div>
-          <h4>Development</h4>
+          <h4>Backup</h4>
           <p>
-            We stay at forefront of technological advancements, ensuring your
-            digital presence performant.
+            We stay at the forefront of backup technology advancements, 
+            ensuring your data is secure, accessible, and reliably protected.
           </p>
         </div>
       </div>
       <div class="banner__card">
         <span><i class="ri-checkbox-line"></i></span>
         <div>
-          <h4>Testing & QA</h4>
+          <h4>Data Storage</h4>
           <p>
-            We understand that your digital presence should not just look good,
-            it should deliver traffic & engagement.
+            We understand that your data systems should not only be secure 
+            but also optimized for accessibility and performance.
           </p>
         </div>
       </div>
@@ -131,31 +137,31 @@
           >
             All
           </button>
-          <button class="btn project__btn" data-filter=".web">Web Apps</button>
-          <button class="btn project__btn" data-filter=".game">Games</button>
+          <button class="btn project__btn" data-filter=".web">Network</button>
+          <button class="btn project__btn" data-filter=".game">Antivirus</button>
           <button class="btn project__btn" data-filter=".design">
-            Designs
+            Firewall
           </button>
         </div>
       </div>
       <div class="project__grid">
         <div class="project__card mix web">
-          <img src="assets/project-1.jpg" alt="project" />
+          <img src="assets/project-1.png" alt="project" />
         </div>
         <div class="project__card mix game">
-          <img src="assets/project-2.jpg" alt="project" />
+          <img src="assets/project-2.png" alt="project" />
         </div>
         <div class="project__card mix design">
-          <img src="assets/project-3.jpg" alt="project" />
+          <img src="assets/project-3.png" alt="project" />
         </div>
         <div class="project__card mix web">
-          <img src="assets/project-4.jpg" alt="project" />
+          <img src="assets/project-4.png" alt="project" />
         </div>
         <div class="project__card mix game">
-          <img src="assets/project-5.jpg" alt="project" />
+          <img src="assets/project-5.png" alt="project" />
         </div>
         <div class="project__card mix design">
-          <img src="assets/project-6.jpg" alt="project" />
+          <img src="assets/project-6.png" alt="project" />
         </div>
       </div>
     </section>
@@ -164,56 +170,58 @@
       <p class="section__subheader">Our Services</p>
       <h2 class="section__header">What We Do?</h2>
       <p class="section__description">
-        We specialize in a wide range of web development services designed to
-        transform your vision into reality.
+        We specialize in comprehensive system administration services designed to ensure 
+        your infrastructure runs smoothly, securely, and efficiently.
       </p>
       <div class="service__grid">
         <div class="service__card">
           <span><i class="ri-window-fill"></i></span>
-          <h4>Website Design</h4>
+          <h4>Infrastructure Management</h4>
           <p>
-            We craft user-friendly interfaces that engage visitors and help you
-            achieve your online goals with minimum efforts.
+            Overseeing the physical components like servers, storage devices, 
+            and networking hardware, ensuring optimal performance and uptime.
           </p>
         </div>
         <div class="service__card">
           <span><i class="ri-store-line"></i></span>
-          <h4>E-commerce Solutions</h4>
+          <h4>Virtualization and Cloud Services</h4>
           <p>
-            We build secure, scalable, and user-centric online stores that
-            enhance the shopping experience and drive conversions.
+            Enabling efficient resource use and scalability by virtualizing 
+            hardware resources or providing cloud-based solutions.
           </p>
         </div>
         <div class="service__card">
           <span><i class="ri-smartphone-line"></i></span>
-          <h4>Mobile Development</h4>
+          <h4>Data Backup and Recovery</h4>
           <p>
-            From iOS to Android, we create apps that deliver seamless
-            performance and keep users coming back for more.
+            Ensuring data is consistently backed up and can be recovered in 
+            the event of hardware failures, outages, or cyber threats.
           </p>
         </div>
         <div class="service__card">
           <span><i class="ri-share-fill"></i></span>
-          <h4>Content Marketing</h4>
+          <h4>Security Management</h4>
           <p>
-            Our services include creating blog posts, videos, and social media
-            content that drives traffic and engagement.
+            Protecting data and systems within the datacenter from unauthorized 
+            access, including physical security (surveillance, biometric access) 
+            and cybersecurity measures (firewalls, encryption).
           </p>
         </div>
         <div class="service__card">
           <span><i class="ri-seo-line"></i></span>
-          <h4>SEO</h4>
+          <h4>Monitoring and Maintenance</h4>
           <p>
-            Our SEO strategies are tailored to your specific goals, helping you
-            reach your target audience and grow your online presence.
+            Continuous monitoring of data center operations, including environmental 
+            controls, server health, network traffic, and security incidents, 
+            with regular maintenance to prevent issues.
           </p>
         </div>
         <div class="service__card">
           <span><i class="ri-share-circle-line"></i></span>
-          <h4>Digital Marketing</h4>
+          <h4>Disaster Recovery Planning</h4>
           <p>
-            From pay-per-click (PPC) advertising to social media marketing, we
-            ensure your brand stands out in the crowded digital landscape.
+            Developing strategies and infrastructure to ensure that data and services 
+            can be restored or continued during and after an unexpected incident.
           </p>
         </div>
       </div>
@@ -232,11 +240,11 @@
               <img src="assets/client-1.jpg" alt="client" />
               <div>
                 <p>
-                  They transformed our online presence with their SEO and
-                  content marketing services. Our website now ranks higher in
-                  search results, and the quality of leads has improved
-                  substantially. I highly recommend their digital marketing
-                  expertise.
+                    Our experience with the system administration team has been phenomenal. 
+                    They handled all our server configurations and maintenance with precision, 
+                    ensuring zero downtime for our operations. Their proactive monitoring 
+                    and support have saved us from potential issues more times than I can count. 
+                    I would highly recommend their services for anyone in need of a reliable infrastructure partner.
                 </p>
                 <h4>John Miller <span>CEO, Corporation</span></h4>
                 <div class="client__ratings">
@@ -254,11 +262,12 @@
               <img src="assets/client-2.jpg" alt="client" />
               <div>
                 <p>
-                  Working with them has been a game-changer for our business.
-                  Their web development expertise helped us create a sleek and
-                  responsive website that has significantly increased our online
-                  sales. Their dedication and innovative solutions truly set
-                  them apart.
+                    Security is a top priority for our business, and the system 
+                    administration team exceeded our expectations. They implemented 
+                    strong security measures and regularly audited our systems 
+                    to keep everything safe. The efficiency and expertise they 
+                    brought to our network setup allowed us to scale quickly without 
+                    sacrificing security. We couldn’t ask for a better experience.
                 </p>
                 <h4>Sarah Thompson <span>Marketing Director</span></h4>
                 <div class="client__ratings">
@@ -276,10 +285,12 @@
               <img src="assets/client-3.jpg" alt="client" />
               <div>
                 <p>
-                  Our digital marketing strategy needed a revamp, and they
-                  delivered outstanding results. Their team's creative approach
-                  to PPC campaigns and social media advertising has generated a
-                  significant increase in our website traffic and conversions.
+                    We recently underwent a complex migration process and were 
+                    incredibly impressed by how smoothly it went thanks to the 
+                    system administration team. They managed everything—from 
+                    planning to execution—with professionalism and a clear 
+                    understanding of our needs. Our team felt supported at 
+                    every step, and the transition was seamless.
                 </p>
                 <h4>David Peterson <span>Marketing Manager</span></h4>
                 <div class="client__ratings">
@@ -297,11 +308,13 @@
               <img src="assets/client-4.jpg" alt="client" />
               <div>
                 <p>
-                  The mobile app they developed for our company exceeded our
-                  expectations. Not only is it user-friendly, but it also helped
-                  us connect with our customers on a whole new level. Their
-                  attention to detail and commitment to delivering on time were
-                  exceptional.
+                    Since partnering with the system administration team, 
+                    our systems have never been faster or more efficient. 
+                    They optimized our infrastructure to meet our exact 
+                    requirements and offered expert advice to keep everything 
+                    running smoothly. Their commitment to performance has 
+                    genuinely boosted our productivity, and we’ve seen great 
+                    improvements in uptime and system responsiveness.
                 </p>
                 <h4>Harrison Rogers <span>Product Manager</span></h4>
                 <div class="client__ratings">
@@ -326,20 +339,25 @@
       <div class="blog__grid">
         <div class="blog__card">
           <img src="assets/blog-1.jpg" alt="blog" />
-          <p>Case Study</p>
-          <h4>Turning Clicks into Conversions with PPC</h4>
+          <p>10 Essential Security Practices Every Business Should 
+            Implement in Their IT Infrastructure</p>
+          <h4>A practical guide to fortifying systems against modern 
+            cyber threats, perfect for any organization looking to enhance security.</h4>
           <a href="#">Read More</a>
         </div>
         <div class="blog__card">
           <img src="assets/blog-2.jpg" alt="blog" />
-          <p>Educational/How-To</p>
-          <h4>The Ultimate Guide to Website Accessibility</h4>
+          <p>Understanding Virtualization: How to Maximize Efficiency 
+            and Cost Savings in Your IT Environment</p>
+          <h4>An in-depth look at virtualization benefits, tips on 
+            implementation, and how it can transform an organization’s resource management.</h4>
           <a href="#">Read More</a>
         </div>
         <div class="blog__card">
           <img src="assets/blog-3.jpg" alt="blog" />
-          <p>Trend Analysis</p>
-          <h4>2023 Web Design Trends: What's In and What's Out</h4>
+          <p>The Complete Guide to Data Backup and Disaster Recovery for Small to Medium Businesses</p>
+          <h4>Covers everything from backup strategies to creating a solid disaster recovery plan, 
+            ensuring business continuity in any scenario.</h4>
           <a href="#">Read More</a>
         </div>
       </div>
@@ -362,27 +380,29 @@
     <footer class="footer">
       <div class="section__container footer__container">
         <div class="footer__col">
-          <h5><a href="#">Andarson</a></h5>
+          <h5><a href="#">Tuncay</a></h5>
           <p>
-            I'm a dedicated web developer with a creative flair and a penchant
-            for turning lines of code into captivating online experiences.
+            I'm a dedicated system administrator with a meticulous approach to 
+            building secure and efficient systems. With a passion for keeping 
+            infrastructure running smoothly, I ensure that every line of 
+            configuration and policy contributes to a seamless, reliable experience for end-users and teams alike.
           </p>
           <div class="footer__socials">
-            <a href="#"><i class="ri-mail-fill"></i></a>
-            <a href="#"><i class="ri-github-fill"></i></a>
-            <a href="#"><i class="ri-linkedin-fill"></i></a>
-            <a href="#"><i class="ri-twitter-fill"></i></a>
-            <a href="#"><i class="ri-dribbble-line"></i></a>
+            <a href="mailto:tuncay.kaya@powercoders.org"><i class="ri-mail-fill"></i></a>
+            <a href="https://github.com/Tuncay5506/"><i class="ri-github-fill"></i></a>
+            <a href="https://www.linkedin.com/in/tuncay-kaya/"><i class="ri-linkedin-fill"></i></a>
           </div>
         </div>
         <div class="footer__col">
           <h4>Services</h4>
           <div class="footer__links">
-            <a href="#">Web Design</a>
-            <a href="#">App Design</a>
-            <a href="#">Photography</a>
-            <a href="#">Videography</a>
-            <a href="#">Web Development</a>
+            <a href="#">Infrastructure Management</a>
+            <a href="#">Virtualization and Cloud Services</a>
+            <a href="#">Data Backup and Recovery</a>
+            <a href="#">Security Management</a>
+            <a href="#">Monitoring and Maintenance</a>
+            <a href="#">Disaster Recovery Planning</a>
+            <a href="#">Capacity Planning and Scaling</a>
           </div>
         </div>
         <div class="footer__col">
@@ -395,7 +415,7 @@
         </div>
       </div>
       <div class="footer__bar">
-        Copyright © 2024 Web Addicted . All rights reserved.
+        Copyright © 2024 Tuncay Kaya. All rights reserved.
       </div>
     </footer>
 
