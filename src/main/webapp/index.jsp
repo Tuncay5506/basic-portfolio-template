@@ -17,9 +17,9 @@
   <body>
     <header class="header">
       <div class="header__socials">
-        <a href="#"><i class="ri-mail-fill"></i></a>
-        <a href="#"><i class="ri-github-fill"></i></a>
-        <a href="#"><i class="ri-linkedin-fill"></i></a>
+        <a href="mailto:tuncay.kaya@powercoders.org"><i class="ri-mail-fill"></i></a>
+        <a href="https://github.com/Tuncay5506/"><i class="ri-github-fill"></i></a>
+        <a href="https://www.linkedin.com/in/tuncay-kaya/"><i class="ri-linkedin-fill"></i></a>
       </div>
       <nav>
         <div class="nav__bar">
@@ -48,7 +48,7 @@
         </div>
         <div class="header__content">
           <h4>Crafting Digital Excellence</h4>
-          <h1>Hi, I Am Sys Adm. This Is My Favotite Work!</h1>
+          <h1>Hi, I Am Sys Admin. This Is My Favotite Work!</h1>
           <p>
             I'm a passionate system administrator with a knack for ensuring 
             robust, secure, and seamless infrastructure. 
@@ -68,7 +68,7 @@
         <img src="assets/about-me.png" alt="about" />
       </div>
       <div class="about__content">
-        <h2 class="section__header">Hi There I Web Dev</h2>
+        <h2 class="section__header">Hi There I Sys Admin</h2>
         <p>
             I'm a passionate system administrator with a knack for ensuring 
             robust, secure, and seamless infrastructure. 
@@ -86,9 +86,9 @@
           <a href="assets/CV_TuncayKAYA.pdf" download class="download__btn">
             Download CV
           </a>
-          <a href="#"><i class="ri-mail-fill"></i></a>
-          <a href="#"><i class="ri-github-fill"></i></a>
-          <a href="#"><i class="ri-linkedin-fill"></i></a>
+          <a href="mailto:tuncay.kaya@powercoders.org"><i class="ri-mail-fill"></i></a>
+          <a href="https://github.com/Tuncay5506/"><i class="ri-github-fill"></i></a>
+          <a href="https://www.linkedin.com/in/tuncay-kaya/"><i class="ri-linkedin-fill"></i></a>
         </div>
       </div>
     </section>
