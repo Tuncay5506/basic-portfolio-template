@@ -15,6 +15,7 @@
     <title> Amazing Portfolio || Tuncay KAYA </title>
   </head>
   <body>
+    Automatic deployment test
     <header class="header">
       <div class="header__socials">
         <a href="mailto:tuncay.kaya@powercoders.org" target="_blank"><i class="ri-mail-fill"></i></a>
